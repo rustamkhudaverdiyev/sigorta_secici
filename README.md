@@ -21,7 +21,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Alət, yükə əsasən hesablanan cərəyana (Ib) görə standart In dəyərləri arasından uyğun qoruma aparatını tövsiyə edir.
 
-🎯 Məqsəd
+**🎯 Məqsəd**
 
 Bu alətin əsas məqsədi:
 
@@ -33,7 +33,7 @@ Manual hesab və səhv seçimin qarşısını almaqdır
 
 Bu alət son layihə qərarı üçün deyil, mühəndisə ilk filtr və yönləndirmə vermək üçün nəzərdə tutulmuşdur.
 
-⚙️ İş prinsipi
+**⚙️ İş prinsipi**
 
 Hesablama aşağıdakı ardıcıllıqla aparılır:
 
@@ -51,7 +51,7 @@ Cərəyan səviyyəsinə görə MCB / MCCB / ACB tövsiyəsi
 
 MCB üçün uyğun eğri (B / C / D) barədə fikir
 
-🧮 Giriş parametrləri
+**🧮 Giriş parametrləri**
 Əsas parametrlər
 
 Faz (məsələn: 1 faz – 230 V)
@@ -74,7 +74,7 @@ Margin – ehtiyat payı
 
 Kd və margin boş buraxıldıqda ssenari üzrə default dəyərlər tətbiq edilir.
 
-📊 Çıxış nəticələri
+**📊 Çıxış nəticələri**
 
 Hesablamadan sonra sistem aşağıdakı məlumatları təqdim edir:
 
@@ -88,7 +88,7 @@ MCB eğrisi üçün fikir (B / C / D)
 
 İstifadə olunan varsayımlar
 
-🧾 Standart In dəyərləri
+**🧾 Standart In dəyərləri**
 
 Alət aşağıdakı standart nominal cərəyan dəyərlərini əsas götürür:
 
@@ -96,7 +96,7 @@ Alət aşağıdakı standart nominal cərəyan dəyərlərini əsas götürür:
 125, 160, 200, 250, 315, 400, 500, 630,
 800, 1000, 1250, 1600, 2000, 2500, 3200
 
-🖥️ Texniki xüsusiyyətlər
+**🖥️ Texniki xüsusiyyətlər**
 
 Tamamilə frontend əsaslı
 
@@ -114,7 +114,7 @@ CSS
 
 JavaScript
 
-⚠️ Məhdudiyyətlər və qeydlər
+**⚠️ Məhdudiyyətlər və qeydlər**
 
 Selektivlik analizi aparılmır
 
@@ -128,7 +128,7 @@ Bu səbəbdən:
 
 Real layihələrdə mütləq mühəndis yoxlaması və normativ uyğunluq təmin edilməlidir.
 
-📌 Versiya qeydi
+**📌 Versiya qeydi**
 
 V1
 
@@ -148,7 +148,7 @@ Selektivlik yoxlaması
 
 Kabel kəsiti ilə inteqrasiya
 
-👷‍♂️ Müəllif
+**👷‍♂️ Müəllif**
 
 Yapımcı: Rustam Khudaverdiyev
 Bu alət praktik sahə ehtiyacları nəzərə alınaraq hazırlanmışdır.
